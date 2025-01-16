@@ -1,1 +1,1 @@
-# Exersices by chapter
+# Exercises by chapter
